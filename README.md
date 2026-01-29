@@ -58,7 +58,7 @@ Data will be published soon!
 
 
 ## ✒️ Citation
-
+If you find our work useful, please consider giving our repo a star and citing our paper as follows:
 ```bibtex
 @article{alasmawi2025fetal,
   title={FETAL-GAUGE: A Benchmark for Assessing Vision-Language Models in Fetal Ultrasound},
@@ -66,3 +66,4 @@ Data will be published soon!
   journal={arXiv preprint arXiv:2512.22278},
   year={2025}
 }
+

@@ -11,6 +11,9 @@ Fetal ultrasound is a cornerstone of prenatal care, yet its interpretation is hi
 
 **FETAL-GAUGE** introduces the first large-scale benchmark designed to systematically evaluate vision-language models on clinically relevant fetal ultrasound tasks.
 
+
+The dataset is publicly available on Zenodo:  
+👉 https://zenodo.org/records/19602403
 ---
 ## Key Features
 

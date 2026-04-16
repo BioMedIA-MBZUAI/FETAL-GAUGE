@@ -57,7 +57,6 @@ These results highlight the need for domain-specific multimodal modeling.
 
 ---
 
-Data will be published soon!
 
 
 ## ✒️ Citation
